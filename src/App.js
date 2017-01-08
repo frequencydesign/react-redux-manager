@@ -28,6 +28,7 @@ class App extends Component {
 					<Text>
 						Hello!
 					</Text>
+					<LoginForm />
 				</View>
 			</Provider>
 		)
